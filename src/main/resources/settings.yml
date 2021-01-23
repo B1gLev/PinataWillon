@@ -1,0 +1,29 @@
+###########################
+#
+#Köszi, hogy használod :P
+#Szükség lesz a NuVotifier pluginra is mert különben lekapcsol szegény :(
+#
+###########################
+
+Pinata:
+  online_player: 10
+  vote_count: 10
+  healt: 10
+
+# Mozgás gyorsasága
+  movement:
+    speed: 1
+
+#Title, subtitle, default érték true
+title:
+  enable: true
+  1: "&aTest title"
+  2: "&aTest subtitle"
+
+message:
+  admin:
+    set: "&aTest"
+    reload: "&aTest"
+  player:
+    permission: "&aTest"
+    broadcast: "&bTest"

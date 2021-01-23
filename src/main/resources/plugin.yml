@@ -1,0 +1,11 @@
+name: PinataWillon
+version: ${project.version}
+main: pinata.willon.Main
+api-version: 1.16
+authors: [ BigLev, Kr1sz ]
+description: Pinata party rebuild
+website: https://www.trywillon.hu/
+
+commands:
+  pinata:
+    description: Pinata
